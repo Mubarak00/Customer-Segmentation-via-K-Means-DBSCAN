@@ -1,4 +1,3 @@
-
 # Customer Segmentation via K-Means & DBSCAN
 
 ## Project Summary
